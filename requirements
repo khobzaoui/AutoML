@@ -1,0 +1,10 @@
+
+The following packages will need to be installed :
+pandas 
+numpy 
+h2o
+ tpot 
+mljar-supervised 
+scikit-learn 
+matplotlib 
+Open terminal and install the following command: pip install “package name".
